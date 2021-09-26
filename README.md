@@ -10,7 +10,7 @@
 
 - 🌱Atualmente estou aprendendo **NodeJS**;
 
-- 💬 Pergunte-me sobre **HTML, CSS, React, SQL, MongoDb, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!**;
+- 💬 Pergunte-me sobre **HTML, CSS, React, SQL, MongoDb, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!**
 
 - 📄 Acesse meu currículo [clicando aqui](https://gitconnected.com/andrebarroso/resume);
 
