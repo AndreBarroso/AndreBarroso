@@ -8,7 +8,7 @@
 
 - 📫 Entre em contato comigo pelo email **andrefb.eng1@gmail.com**, ou se preferir, envie uma mensagem pelas redes sociais acima;
 
-- 🌱Comecei a aprender **Java** e também estou solidficando meus conhecimentos em **NodeJS**;
+- 🌱Comecei a aprender **Java** e também estou solidificando meus conhecimentos em **NodeJS**;
 
 - 💬 Pergunte-me sobre **HTML, CSS, React, MySQL, MongoDB, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!**
 
