@@ -4,11 +4,11 @@
 <a href="https://linkedin.com/in/andrebarroso1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrebarroso1" height="30" width="40" /></a>
 <a href="https://instagram.com/andrebarros0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrebarros0" height="30" width="40" /></a>
 </p></h3>
-<h3 align="center">Sou engenheiro de controle e automação e um (quase) desenvolvedor full-stack pela Trybe.</h3>
+<h3 align="center">Sou engenheiro de controle e automação e desenvolvedor full-stack.</h3>
 
 - 📫 Entre em contato comigo pelo email **andrefb.eng1@gmail.com**, ou se preferir, envie uma mensagem pelas redes sociais acima;
 
-- 🌱Comecei a aprender **Java** e também estou solidificando meus conhecimentos em **NodeJS**;
+- 🌱Estou aprendendo **Java**, **Python** e solidificando meus conhecimentos em **NodeJS**;
 
 - 💬 Pergunte-me sobre **HTML, CSS, React, MySQL, MongoDB, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!**
 
