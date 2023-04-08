@@ -8,9 +8,9 @@
 
 - 📫 Entre em contato comigo pelo email **andrefb.eng1@gmail.com**, ou se preferir, envie uma mensagem pelas redes sociais acima;
 
-- 🌱Estou aprendendo **Java**, **Python** e solidificando meus conhecimentos em **NodeJS**;
+- 🌱Estou atualmente trabalhando com React e aprendendo Go;
 
-- 💬 Pergunte-me sobre **HTML, CSS, React, MySQL, MongoDB, NodeJS e sobre quaisquer assuntos. Vamos aprender juntos!**
+- 💬 Pergunte-me sobre **HTML, CSS, React, MySQL, MongoDB, NodeJS, Java ou sobre quaisquer assuntos. Vamos aprender juntos!**
 
 - 📄 Acesse meu currículo [clicando aqui](https://gitconnected.com/andrebarroso/resume);
 
